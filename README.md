@@ -11,14 +11,9 @@ This project implements a single-layer perceptron, one of the simplest forms of 
 - Training progress visualization
 - Decision Boundary Plotting
 
-## Installation
-
-### Prerequisites
-- Python 3.6+
-- pip
 
 ### Setup
 Clone the repository:
 
-   git clone 
+git clone https://github.com/Soyebsoyeb/perceptron
    
